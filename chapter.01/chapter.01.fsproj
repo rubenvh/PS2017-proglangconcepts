@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>proglangconcepts</RootNamespace>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <AssemblyName>chapter01</AssemblyName>
+        <Company />
+        <Product />
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Library.fs" />
+    </ItemGroup>
+
+</Project>
